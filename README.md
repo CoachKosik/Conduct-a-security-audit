@@ -6,8 +6,6 @@ This project aims to analyze the security posture of Botium Toys and identify ar
 
 ### Skills Learned
 
-**Technical Skills:**
-
 * **Security Assessment:** Evaluating the security posture of an organization, identifying vulnerabilities, and recommending improvements.
 * **Compliance Analysis:** Assessing compliance with industry standards and regulations, such as PCI DSS, GDPR, and SOC.
 * **Risk Assessment:** Identifying, analyzing, and prioritizing security risks.
