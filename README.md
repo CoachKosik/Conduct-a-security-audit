@@ -6,8 +6,6 @@ This project aims to analyze the security posture of Botium Toys and identify ar
 
 ### Skills Learned
 
-Here are the skills demonstrated in the prompt, along with explanations:
-
 **Technical Skills:**
 
 * **Security Assessment:** Evaluating the security posture of an organization, identifying vulnerabilities, and recommending improvements.
@@ -16,9 +14,6 @@ Here are the skills demonstrated in the prompt, along with explanations:
 * **Access Control:** Implementing and managing access controls to protect sensitive information.
 * **Data Security:** Implementing measures to protect data confidentiality, integrity, and availability.
 * **Network Security:** Understanding network security principles and configuring network devices to mitigate threats.
-
-**Soft Skills:**
-
 * **Analytical Thinking:** Analyzing complex information and identifying potential security risks.
 * **Problem-Solving:** Identifying and resolving security issues.
 * **Attention to Detail:** Ensuring accuracy and thoroughness in assessments and recommendations.
